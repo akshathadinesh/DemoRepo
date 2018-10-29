@@ -1,2 +1,2 @@
 # DemoRepo
-This is on;y for demo purpose
+This is only for demo purpose
